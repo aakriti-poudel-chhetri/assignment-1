@@ -24,7 +24,7 @@ This is a regression problem because species richness is a numeric outcome. We a
 
 > **Your Answer:**
 
-This is a classification problem because the outcome, whether proposed habitat corridor will successfully support wildlife movement or fail, is a binary category, not a number. The agency is interested in prediction, since the goal is to forecast whether a new, proposed corridor will succeed or fail, not to understand which variables drive success. The dataset has n = 30 observations (one per corridor) and p = 10 predictors: corridor size (width, length), surrounding land use type and eight additional variables. Whether wildlife movement succeeds or fails is the response variable Y, not a predictor.
+This is a classification problem because the outcome, whether proposed habitat corridor will successfully support wildlife movement or fail, is a binary category, not a number. The agency is interested in prediction, since the goal is to forecast whether a new, proposed corridor will succeed or fail, not to understand which variables drive success. The dataset has n = 30 observations (one per corridor) and p = 11 predictors: corridor width, length, surrounding land use type and eight other variables. Whether wildlife movement succeeds or fails is the response variable Y, not a predictor.
 
 ---
 
